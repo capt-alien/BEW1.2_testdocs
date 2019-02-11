@@ -1,0 +1,36 @@
+I. Day 5: Documentation via Docsify
+
+
+
+Documentation: Things we do don't exist unless it is written
+
+
+**Strategy**
+1) Document feature first
+2) review documentation with users/stakeholders before any development begins
+3) Once written  commence development
+4) Unit tests should be written that test the features as described by the documentation.
+5) When a feature is being modified, it should be modified documentation-first.
+6) When docs are modified, tests are modified. No exceptions.
+7)Documentation and software should both be versioned:
+
+
+Order of Operations
+ 1.Write docs
+ 2.Get feedback
+ 3.TDD (tests fully align with documentation)
+ 4.Push features live
+ 5.Test live functionality
+ 6.Publish documentation
+ 7.Increment versions
+ 8.Deliver feature to users
+
+
+
+ docsify
+ A magical documentation site generator.
+
+ What it is
+ docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages.
+
+ See the Quick start guide for more details.
