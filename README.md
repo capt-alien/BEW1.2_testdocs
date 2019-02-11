@@ -3,5 +3,3 @@
 > Aside from being: An awesome project.
 
 1) Hoodslam Roster in a DB  https://www.birdswillfall.com/
-2) Veterans resources
-3)
